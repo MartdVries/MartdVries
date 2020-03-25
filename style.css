@@ -1,0 +1,42 @@
+.middle{
+    position: absolute;
+    height: 650px;
+    border: 15px dashed white;
+    margin: 20px;
+    left: 740px;
+}
+body{
+    background-color: black;
+}  
+.top{
+    position: absolute;
+    width: 1520px;
+}
+.bottom{
+    position: absolute;
+    width: 1520px;
+    bottom: 10px;
+}
+.dot {
+    height: 25px;
+    width: 25px;
+    background-color:white;
+    border-radius: 50%;
+    display: inline-block;
+    position: absolute;
+  }
+  .left {
+    border-left: 6px solid white;
+    height: 100px;
+    position: absolute;
+    left: 0%;
+  }
+  .left2{
+      border-left: 6px solid white;
+      height: 100px;
+      position: absolute;
+      left: 99%;
+  }
+
+
+  
